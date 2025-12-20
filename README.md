@@ -24,8 +24,8 @@ Based in Greece, I create clean, engaging websites designed for optimal user exp
 ---
 
 ## 📂 Key Projects
-| Project | Description | Link |
-|---------|-------------|------|
+| Project | Description | Link | Website |
+|---------|-------------|------|---------| 
 | **Library App** | Manage and track books with a clean interface | [Repo](https://github.com/GeorgeZisis95/book-collection-app) | [Website]((https://book-collection-app-ruby.vercel.app/)) |
 | **Landing Page** | Manage and track books with a clean interface | [Repo](https://github.com/GeorgeZisis95/monastery-saint-kosmas-thermo) | [Website](https://monastery-saint-kosmas-thermo.vercel.app/) |
 | **TicTacToe Game** | Interactive game with stylish UI | [Repo](https://github.com/GeorgeZisis95/tic-tac-toe-js) | [Website](https://zisis-tictactoe.vercel.app/) |
