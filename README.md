@@ -26,11 +26,11 @@ Based in Greece, I create clean, engaging websites designed for optimal user exp
 ## 📂 Key Projects
 | Project | Description | Link |
 |---------|-------------|------|
-| **Library App** | Manage and track books with a clean interface | [Repo](https://github.com/GeorgeZisis95/library-app) | [Website]((https://book-collection-app-ruby.vercel.app/))
-| **Landing Page** | Manage and track books with a clean interface | [Repo](https://github.com/GeorgeZisis95/monastery-saint-kosmas-thermo) | [Website](https://monastery-saint-kosmas-thermo.vercel.app/)
-| **TicTacToe Game** | Interactive game with stylish UI | [Repo](https://github.com/GeorgeZisis95/tic-tac-toe-js) | [Website](https://zisis-tictactoe.vercel.app/)
-| **Calculator App** | Responsive, modern calculator with custom styling | [Repo](https://github.com/GeorgeZisis95/calculator-js) | [Website](https://zisis-calculator.vercel.app/)
-| **Rock Paper Scissors Game** | A modern, fun Rock-Paper-Scissors game built with HTML, CSS, and JavaScript.  | [Repo](https://github.com/GeorgeZisis95/rock-paper-scissors-js) | [Website](https://zisis-rock-paper-scissors.vercel.app/)
+| **Library App** | Manage and track books with a clean interface | [Repo](https://github.com/GeorgeZisis95/book-collection-app) | [Website]((https://book-collection-app-ruby.vercel.app/)) |
+| **Landing Page** | Manage and track books with a clean interface | [Repo](https://github.com/GeorgeZisis95/monastery-saint-kosmas-thermo) | [Website](https://monastery-saint-kosmas-thermo.vercel.app/) |
+| **TicTacToe Game** | Interactive game with stylish UI | [Repo](https://github.com/GeorgeZisis95/tic-tac-toe-js) | [Website](https://zisis-tictactoe.vercel.app/) |
+| **Calculator App** | Responsive, modern calculator with custom styling | [Repo](https://github.com/GeorgeZisis95/calculator-js) | [Website](https://zisis-calculator.vercel.app/) |
+| **Rock Paper Scissors Game** | A modern, fun Rock-Paper-Scissors game built with HTML, CSS, and JavaScript.  | [Repo](https://github.com/GeorgeZisis95/rock-paper-scissors-js) | [Website](https://zisis-rock-paper-scissors.vercel.app/) |
 
 
 ---
