@@ -1,13 +1,15 @@
-# Hi, I'm George Zisis 👋
+# Hi, I'm George👋
 
-I'm a **web developer** focused on **JavaScript, HTML, CSS**, and **React**, building practical projects to grow my skills and prepare for a career in tech.
+Based in Greece, I create clean, engaging websites designed for optimal user experiences.
 
 ---
 
 ## 🔹 About Me
-- 💻 Currently learning modern web development and building projects  
-- 🌱 Passionate about clean, maintainable code and responsive design  
-- 📍 Based in Greece  
+- Self-taught frontend developer with experience in React, JavaScript, Figma, HTML, and CSS.
+- I enjoy turning ideas into simple, fast, and accessible interfaces. 
+- I’m currently sharpening my frontend skills and preparing for my first role in tech.
+- I enjoy learning by building real projects and focusing on clean structure, maintainability, and user experience.
+- Recently built a complete monastery website featuring daily API content, responsive design, and dynamic UI components.
 
 ---
 
@@ -24,9 +26,12 @@ I'm a **web developer** focused on **JavaScript, HTML, CSS**, and **React**, bui
 ## 📂 Key Projects
 | Project | Description | Link |
 |---------|-------------|------|
-| **Library App** | Manage and track books with a clean interface | [Repo](https://github.com/GeorgeZisis95/library-app) |
-| **Calculator App** | Responsive, modern calculator with custom styling | [Repo](https://github.com/GeorgeZisis95/calculator) |
-| **TicTacToe Game** | Interactive game with stylish UI | [Repo](https://github.com/GeorgeZisis95/tictactoe) |
+| **Library App** | Manage and track books with a clean interface | [Repo](https://github.com/GeorgeZisis95/library-app) | [Website]((https://book-collection-app-ruby.vercel.app/))
+| **Landing Page** | Manage and track books with a clean interface | [Repo](https://github.com/GeorgeZisis95/monastery-saint-kosmas-thermo) | [Website](https://monastery-saint-kosmas-thermo.vercel.app/)
+| **TicTacToe Game** | Interactive game with stylish UI | [Repo](https://github.com/GeorgeZisis95/tic-tac-toe-js) | [Website](https://zisis-tictactoe.vercel.app/)
+| **Calculator App** | Responsive, modern calculator with custom styling | [Repo](https://github.com/GeorgeZisis95/calculator-js) | [Website](https://zisis-calculator.vercel.app/)
+| **Rock Paper Scissors Game** | A modern, fun Rock-Paper-Scissors game built with HTML, CSS, and JavaScript.  | [Repo](https://github.com/GeorgeZisis95/rock-paper-scissors-js) | [Website](https://zisis-rock-paper-scissors.vercel.app/)
+
 
 ---
 
@@ -36,7 +41,7 @@ I'm a **web developer** focused on **JavaScript, HTML, CSS**, and **React**, bui
 ---
 
 ## 📫 Contact Me
-[LinkedIn](https://www.linkedin.com/in/george-zisis-137670394/) • [Email](georgezisis@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/george-zisis-137670394/) • [Website](https://zisis.vercel.app/) • [Email](georgezisis@gmail.com)
 
 
 <!--
