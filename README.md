@@ -43,4 +43,4 @@ Based in Greece, I create clean, engaging websites designed for optimal user exp
 ---
 
 ## 📫 Contact Me
-[LinkedIn](https://www.linkedin.com/in/george-zisis-137670394/) • [Website](https://zisis.vercel.app/) • Email:georgezisis@gmail.com • Phone: +30 6986509070
+[LinkedIn](https://www.linkedin.com/in/george-zisis-137670394/) • [Website](https://zisis.vercel.app/) • georgezisis@gmail.com • +30 6986509070
