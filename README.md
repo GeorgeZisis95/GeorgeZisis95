@@ -28,7 +28,7 @@ Based in Greece, I create clean, engaging websites designed for optimal user exp
 |---------|-------------|------|---------| 
 | **Personal Portfolio** | Responsive personal portfolio website | [Repo](https://github.com/GeorgeZisis95/personal-website) | [Website](https://zisis.vercel.app/) |
 | **Library App** | Manage and track books with a clean interface | [Repo](https://github.com/GeorgeZisis95/book-collection-app) | [Website](https://book-collection-app-ruby.vercel.app/) |
-| **Landing Page** | Manage and track books with a clean interface | [Repo](https://github.com/GeorgeZisis95/monastery-saint-kosmas-thermo) | [Website](https://monastery-saint-kosmas-thermo.vercel.app/) |
+| **Landing Page** | Responsive real world landing page project | [Repo](https://github.com/GeorgeZisis95/monastery-saint-kosmas-thermo) | [Website](https://monastery-saint-kosmas-thermo.vercel.app/) |
 | **TicTacToe Game** | Interactive game with stylish UI | [Repo](https://github.com/GeorgeZisis95/tic-tac-toe-js) | [Website](https://zisis-tictactoe.vercel.app/) |
 | **Sketchpad App** | A fun, interactive sketchpad that lets you draw on a colorful (or chalkboard-style) grid! | [Repo](https://github.com/GeorgeZisis95/sketchpad-js) | [Website](https://sketchpad-js.vercel.app/) |
 | **Rock Paper Scissors Game** | A modern, fun Rock-Paper-Scissors game built with HTML, CSS, and JavaScript.  | [Repo](https://github.com/GeorgeZisis95/rock-paper-scissors-js) | [Website](https://zisis-rock-paper-scissors.vercel.app/) |
@@ -43,20 +43,4 @@ Based in Greece, I create clean, engaging websites designed for optimal user exp
 ---
 
 ## 📫 Contact Me
-[LinkedIn](https://www.linkedin.com/in/george-zisis-137670394/) • [Website](https://zisis.vercel.app/) • [Email](georgezisis@gmail.com)
-
-
-<!--
-**GeorgeZisis95/GeorgeZisis95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/george-zisis-137670394/) • [Website](https://zisis.vercel.app/) • Email:georgezisis@gmail.com • Phone: +30 6986509070
