@@ -34,12 +34,6 @@ Based in Greece, I create clean, engaging websites designed for optimal user exp
 | **Rock Paper Scissors Game** | A modern, fun Rock-Paper-Scissors game built with HTML, CSS, and JavaScript.  | [Repo](https://github.com/GeorgeZisis95/rock-paper-scissors-js) | [Website](https://zisis-rock-paper-scissors.vercel.app/) |
 | **Calculator App** | Responsive, modern calculator with custom styling | [Repo](https://github.com/GeorgeZisis95/calculator-js) | [Website](https://zisis-calculator.vercel.app/) |
 
-
----
-
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GeorgeZisis95&show_icons=true&hide=prs)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeZisis95&layout=compact)
-
 ---
 
 ## 📫 Contact Me
