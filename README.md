@@ -1,6 +1,6 @@
 # Hi, I'm George👋
 
-Based in Greece, I create clean, engaging websites designed for optimal user experiences.
+Based in Greece, I write elegant code and keep up with the latest technological news. 
 
 ---
 
