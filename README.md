@@ -34,4 +34,4 @@ Based in Greece, I create clean, engaging websites designed for optimal user exp
 ---
 
 ## 📫 Contact Me
-[LinkedIn](linkedin.com/in/zisistech) • georgezisis@gmail.com • +30 6986509070
+[LinkedIn](https://www.linkedin.com/in/zisistech/) • georgezisis@gmail.com • +30 6986509070
