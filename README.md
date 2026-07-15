@@ -23,6 +23,7 @@ Based in Greece, I write elegant code and keep up with the latest technological 
 | Project | Description | Link | Website |
 |---------|-------------|------|---------| 
 | **Chess Agent AI** | Chess agent that can play in a good level | [Repo](https://github.com/GeorgeZisis95/Chess-Agent-Machine-Learning) | No Website |
+| **Informational Website** | Real world project for local organisation | [Repo](https://github.com/GeorgeZisis95/Informational-Website) | [Website](https://ieramoniagioukosma.vercel.app) |
 | **Personal Portfolio** | Responsive personal portfolio website | [Repo](https://github.com/GeorgeZisis95/personal-website) | [Website](https://zisis.vercel.app/) |
 | **Library App** | Manage and track books with a clean interface | [Repo](https://github.com/GeorgeZisis95/book-collection-app) | [Website](https://book-collection-app-ruby.vercel.app/) |
 | **Recipe Page** | The project is built with HTML, CSS, and JavaScript, and designed to be mobile-friendly with a consistent layout and interactive elements like a "Back to Top" button. | [Repo](https://github.com/GeorgeZisis95/top-recipes) | [Website](https://top-recipes.vercel.app/index.html) |
